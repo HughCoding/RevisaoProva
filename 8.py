@@ -24,3 +24,5 @@ elif 35 <= imc < 40:
 else:
     print("Obesidade Grau III")
 
+
+#SAÍDA = O seu IMC é: 26.58 (SOBREPESO)
